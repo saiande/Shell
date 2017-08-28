@@ -1,0 +1,13 @@
+bin
+build
+cat
+dfghjk.txt
+egg.txt
+hello.txt
+hello world!
+include
+Makefile
+new.txt
+out.txt
+src
+tests

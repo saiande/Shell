@@ -1,0 +1,10 @@
+bin
+build
+hello.txt
+hello world!
+include
+Makefile
+new.txt
+out.txt
+src
+tests
